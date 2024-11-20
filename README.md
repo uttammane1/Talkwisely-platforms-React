@@ -1,3 +1,16 @@
+# Calculator
+
+## Preview
+
+![Macbook-Air-talkwisely-platforms-react vercel app](https://github.com/user-attachments/assets/38ea2c67-b2f1-4597-94cd-5fd145fc49de)
+
+![Galaxy-Tab-S7-talkwisely-platforms-react vercel app](https://github.com/user-attachments/assets/7a6c9b61-c6dc-4349-9d86-58f9e1e057bb)
+
+![iPhone-14-Plus-talkwisely-platforms-react vercel app](https://github.com/user-attachments/assets/8e84ebf3-568b-40b2-b969-0933a690daa6)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
